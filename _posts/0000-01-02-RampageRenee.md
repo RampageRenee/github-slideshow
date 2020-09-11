@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"A dirty mind is a joy forever!"
 Use the left arrow to go back!
